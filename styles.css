@@ -1,0 +1,75 @@
+body{
+	background-image:url("sign.jpg");
+    background-attachment:fixed;
+	background-position:center center;
+	background-size:cover;
+	font-family:sans-serif;
+}
+
+  /*main content of the web page*/
+.container{
+	width:40%;
+	margin:auto;/*moves the div approximately in center*/
+	overflow:hidden;
+	padding:1rem;
+	background-color:#fff;
+	border-radius:10px;
+	text-align:center;
+	margin-top:7%;
+}
+
+  /*for horizontal line*/
+hr{
+	width:80%;
+}
+
+  /*FaceBook Button*/
+.fb{
+    padding:0.5rem 2rem;
+    color:#fff;
+	background-color:#4267B2;
+	border:none;
+	border-radius:5px;
+}	
+a{
+	text-decoration:none;
+}
+.container input{
+     padding:0.5rem;
+     width:70%;
+}
+
+/*For adjusting the checkbox */
+
+.container input[type=checkbox]{
+    width:auto;
+}
+
+/*Sign Up Button At the end..*/
+.btn{
+	padding:1rem;
+    background-color:#2ecc71;
+	font-size:1rem;
+	width:50%;
+	border-radius:7px;
+	border:none;
+}
+
+/*END*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
